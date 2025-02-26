@@ -136,7 +136,7 @@
                         </div>     
                         <div class="mb-3">
                             <label for="txtEngine" class="form-label">CC Engine</label>
-                            <input type="number" class="form-control" name="txtEngine">
+                            <input type="text" class="form-control" name="txtEngine">
                         </div>  
                         <div class="mb-3">
                             <select name="selFuelType" class="form-select" aria-label="Select your fuel type">

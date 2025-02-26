@@ -27,7 +27,7 @@
             txtEngine,
             selFuelType,
             txtMileage,
-            ""))) 
+            " "))) 
     {
             RequestDispatcher rd = request.getRequestDispatcher("carsServlet");
             rd.forward(request, response);
